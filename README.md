@@ -1,5 +1,7 @@
 # pihole
 
+Run pihole in a docker container.
+
 ## Upgrade Pi-Hole Version
 
 ```
