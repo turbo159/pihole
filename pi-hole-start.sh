@@ -1,0 +1,3 @@
+# Docker compose startup...
+Echo $"Staring pihole using docker-compose..."
+docker-compose --file pihole-compose.yaml up -d
