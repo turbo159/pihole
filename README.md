@@ -10,5 +10,5 @@ sudo docker stop pihole
 sudo ./pihole-start.sh
 ```
 
-* May need to delete old container.
+The ~/apps/pihole/pi-hole-start.sh, will remove the old container and start a new instance.   No need to remove the old.
 
